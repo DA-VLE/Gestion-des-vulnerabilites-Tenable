@@ -1,11 +1,11 @@
 # Vulnerability Management Lab with Tenable: A Practical Guide
 
-Welcome to the **Vulnerability Management Lab with Tenable**! This repository contains the resources and steps from a hands-on lab that demonstrates the fundamentals of vulnerability management using Tenable’s vulnerability scanning tools. This lab is designed for cybersecurity enthusiasts and professionals looking to deepen their understanding of vulnerability management and how to use it effectively to secure systems.
+Welcome to the **Vulnerability Management Lab with Tenable**! This repository contains the resources and steps from a hands-on lab that demonstrates the fundamentals of vulnerability management using Tenable’s vulnerability scanning tools. This lab is a good approach to deepen my understanding of vulnerability management and how to use it effectively to secure systems.
 
 ---
 
 ### Lab Architecture and Overview
-This lab is designed to be cloud-based and accessible from any computer. The lab provides actionable skills for your cybersecurity journey, with practical steps to enhance your resume and boost your job prospects. The Tenable Vulnerability Management cloud console was used as the main operating interface and the Tenable Scan Engine as well as the Scan Target were both hosted on Microsoft Azure virtual machines.
+This lab is designed to be cloud-based and accessible from my computer. The lab provides actionable skills for my cybersecurity journey, with practical steps to enhance my resume and boost my job prospects. The Tenable Vulnerability Management cloud console was used as the main operating interface and the Tenable Scan Engine as well as the Scan Target were both hosted on Microsoft Azure virtual machines.
 
 <img width="931" alt="image" src="https://github.com/user-attachments/assets/2853aed3-0092-4b4c-be3e-a67cd8dfd9f5" />
 

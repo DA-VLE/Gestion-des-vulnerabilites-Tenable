@@ -37,11 +37,16 @@ This lab is designed to be cloud-based and accessible from my computer. The lab 
 **Environment Setup**:
    - Configure a VM in Azure.
    - Prepare the VM for vulnerability scanning.
-     <img width="1110" alt="image" src="https://github.com/user-attachments/assets/9ed1a8e8-9300-4ac1-b89b-84b29c4a1012" />
+     <img width="1161" height="681" alt="image" src="https://github.com/user-attachments/assets/161f9563-7b1d-4d9b-b50c-3e9e14bf9599" />
+
 
 **Scan Configuration**
    - Configure a credentialed Tenable scan to look for all the basic vulnerabilities + *DISA Windows 10 STIG v3r2*
-     <img width="1567" alt="image" src="https://github.com/user-attachments/assets/d9c3019e-930a-4b3c-92f0-6cb4cc061f6d" />
+
+     <img width="815" height="444" alt="image" src="https://github.com/user-attachments/assets/99d41dc5-cc78-44c4-8f2a-dad14229aed9" />
+
+     <img width="1486" height="830" alt="image" src="https://github.com/user-attachments/assets/135c6591-37f6-4ef2-8e6e-6836f838cd42" />
+
 
 
 **Initial Scan**:

@@ -71,10 +71,27 @@ This lab is designed to be cloud-based and accessible from my computer. The lab 
 
  
    - Perform a second scan to detect changes.
+
+<img width="1428" height="464" alt="image" src="https://github.com/user-attachments/assets/034e80da-68ec-435d-b867-7bfef5ec2da3" />
+<img width="1071" height="152" alt="image" src="https://github.com/user-attachments/assets/5f9a2390-cabe-4b38-9842-f215f66aa336" />
+
+
     
 
 **Remediation**:
-   - Fix vulnerabilities and compliance issues (e.g., uninstall outdated software, modify registry settings to increase security event log size, disable Guest account, rename Guest account, fully update Windows).
+   - Fix vulnerabilities and compliance issues (e.g., uninstall outdated software (**use appwiz.cpi to delete fastly Firefox**), modify registry settings to increase security event log size, disable Guest account, rename Guest account, fully update Windows).
+
+<img width="1367" height="435" alt="image" src="https://github.com/user-attachments/assets/c4718765-bc97-4273-a8e2-d0b4dd999bf5" />
+<img width="595" height="127" alt="image" src="https://github.com/user-attachments/assets/2789afc0-9ebe-4f1a-b817-67408b110446" />
+<img width="788" height="438" alt="image" src="https://github.com/user-attachments/assets/c2e85bb9-add9-48c0-832a-a3026f70f8d6" />
+
+
+<img width="1423" height="303" alt="image" src="https://github.com/user-attachments/assets/87cb424a-5284-429d-9f71-f03207163d9a" />
+<img width="153" height="82" alt="image" src="https://github.com/user-attachments/assets/786e6b35-d7e5-4ee8-b331-bb5352648107" />
+
+
+
+
    - Perform a final scan to confirm remediation.
      
 **Document Results**:

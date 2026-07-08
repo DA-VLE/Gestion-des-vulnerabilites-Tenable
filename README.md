@@ -93,7 +93,13 @@ This lab is designed to be cloud-based and accessible from my computer. The lab 
 
 
    - Perform a final scan to confirm remediation.
-     
+<img width="1421" height="451" alt="image" src="https://github.com/user-attachments/assets/5e285691-e743-4677-9ea3-983ca6561bd2" />
+<img width="1056" height="130" alt="image" src="https://github.com/user-attachments/assets/f2a61c99-4e3e-4942-8621-0c440e78cd30" />
+<img width="1436" height="428" alt="image" src="https://github.com/user-attachments/assets/bdff422c-c114-448b-974e-13f77b93e52e" />
+
+
+
+
 **Document Results**:
    
    <img width="790" alt="image" src="https://github.com/user-attachments/assets/415caeeb-31e5-4bbd-b516-babfd7a66e2e" />

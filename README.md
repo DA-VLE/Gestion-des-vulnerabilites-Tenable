@@ -56,17 +56,22 @@ This lab is designed to be cloud-based and accessible from my computer. The lab 
      - STIG ID WN10-SO-000025 (Rename Guest Account) - Initial Fail
      - STIG ID WN10-SO-000010 (Disable Guest Account) - Initial Pass
 
-     <img width="1690" alt="image" src="https://github.com/user-attachments/assets/b4393be5-5f17-4b86-8ad2-54216531ef07" />
-     <img width="1690" alt="image" src="https://github.com/user-attachments/assets/89eae55d-5a6b-405e-8095-6d68caa68f96" />
-     <img width="1690" alt="image" src="https://github.com/user-attachments/assets/30a36968-bdb5-4815-9153-56d0e12caebf" />
+     <img width="1422" height="596" alt="image" src="https://github.com/user-attachments/assets/b3db6184-cfff-4a45-91f3-19ccc87137c9" />
+     <img width="1419" height="794" alt="image" src="https://github.com/user-attachments/assets/11e9c9e5-08b7-4b17-82dc-beb1da91a549" />
+     <img width="1424" height="580" alt="image" src="https://github.com/user-attachments/assets/d201edc3-03da-472b-bb74-88308e06696e" />
+
 
 
 
 **Simulate Vulnerabilities**:
    - Introduce vulnerabilities such as outdated software (Firefox v110) or misconfigured settings (Enabled Guest Account)
      - Intentionally FAIL: STIG ID WN10-SO-000010 by enabling the Guest Account
+    
+     <img width="745" height="527" alt="image" src="https://github.com/user-attachments/assets/9432df95-d7ba-4680-8ad8-789cf2716075" />
+
+ 
    - Perform a second scan to detect changes.
-     ![image](https://github.com/user-attachments/assets/46f0d7c2-fb90-4014-86e1-8f8528a167f5)
+    
 
 **Remediation**:
    - Fix vulnerabilities and compliance issues (e.g., uninstall outdated software, modify registry settings to increase security event log size, disable Guest account, rename Guest account, fully update Windows).
